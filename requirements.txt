@@ -3,7 +3,3 @@ numpy
 plotly
 matplotlib
 scipy
-pandas
-PIL
-torch
-torchvision
