@@ -1,0 +1,12 @@
+Title,Description
+Normalised Difference Index (NDI),This method has the aim of segment plant material from soil background.
+Excess Green Index (ExG),Another method is the one that indicates the colour vegetation.
+Excess Red Index (ExR),This method is less accurate than ExG.
+Colour Index of Vegetation Extraction (CIVE),This method was proposed to separate green plants from soil background in order to evaluate the crop growing status.
+Excess Green minus Excess Red Index (ExGR),These methods were applied simultaneously to separate plants from the soil and residue.
+Normalised Green–Red Difference Index (NGRDI),The method of NGRDI was used to overcome the differences in exposure settings selected by the digital camera when acquiring aerial photography of the field.
+Vegetative Index (VEG),The study was conducted under field conditions and the image was captured by a CCD camera.
+Modified Excess Green Index (MExG),The proposed method successfully converted the colour image into greyscale image which was very easy to binarise with a fast automatic threshold method.
+Combined Indices1 (COM1),Combination of ExG CIVE ExGR and VEG index.
+Combined Indices2 (COM2),The contribution of each selected method is controlled by a weighting factor with the weights summing one ExG CIVE and VEG index combined. 
+
