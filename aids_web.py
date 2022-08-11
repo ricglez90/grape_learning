@@ -6,8 +6,8 @@ Created on Fri Oct 15 13:00:31 2021
 @author: cacie
 """
 import sys    
-#sys.path.insert(0,"cnn_architectures/")
-#sys.path.insert(0,"color_segmentation/")
+sys.path.insert(0,"cnn_architectures/")
+sys.path.insert(0,"color_segmentation/")
 import torch
 import torchvision.transforms as transforms
 from cnn import SegNet, UNet, deeplabv3plus_mobilenet
