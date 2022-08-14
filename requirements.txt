@@ -6,4 +6,4 @@ scipy
 torch
 torchvision
 pillow
-skimage
+scikit_image
