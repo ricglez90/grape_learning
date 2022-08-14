@@ -8,4 +8,3 @@ torchvision
 pillow
 scikit_image
 scikit-learn
-pickle
